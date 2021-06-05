@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color:#6ab04c;
+}
+
+h1{
+    display: inline-block;
+    width: 400px;
+    font-weight: 700;
+}
+
+.p{
+    display: inline-block;
+    width: 400px;
+    font-weight: 200;
+}
+
+div{
+    background-color:#c7ecee;
+}
